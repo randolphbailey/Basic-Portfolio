@@ -1,0 +1,47 @@
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: #4aaaa5;
+    background-color: white;
+}
+
+body {
+    width: 960px;
+    background-color: grey;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+
+img {
+    float: left;
+    padding: 10px;
+}
+
+.navigation {
+    text-align: right;
+}
+
+.mainHeader {
+    background-color: white;
+    border-color: #cccccc;
+}
+
+.footer {
+    background-color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.mainBox {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
