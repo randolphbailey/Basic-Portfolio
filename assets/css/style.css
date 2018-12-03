@@ -2,16 +2,25 @@ h1 {
     background-color: #4aaaa5;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline;
 }
 
 h2 {
     color: #4aaaa5;
     background-color: white;
+    display: inline;
+}
+
+header {
+    background-color: white;
+    border-color: #cccccc;
+    vertical-align: center;
 }
 
 body {
     width: 960px;
     background-color: grey;
+    align-content: center;
 }
 
 table {
